@@ -1,0 +1,13 @@
+body{
+    background-color: #282828;
+    color: aliceblue;
+} 
+li{
+    display: flex;
+    /* display: inline-block; */
+}
+
+button{
+    display: inline-block;
+    /* display: flex; */
+}
